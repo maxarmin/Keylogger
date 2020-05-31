@@ -15,11 +15,15 @@ pip install pynput
 
 •**Set your own MAIL and PASSWORD on "keylogger.py".**
 
-•**Run main.py on Target Computer**
+•**Run keylogger.py on Target Computer**
 
 •**Every 10 seconds,You Get the Data from the Target Computer**
 
 •**If Target finds the Code and Open the File for Want to Learn your MAIL and Password The Program DELETE itself.**
+
+## USAGE TEMP MAIL API
+
+#### https://temp-mail.org/en/api/
 
 
 ## ANTIVIRUS TEST
@@ -27,4 +31,12 @@ pip install pynput
 ![github-small](/images/1.png)
 
 ![github-small](/images/2.png)
+
+## Another Projects : 
+
+•**WHATSAPP BOT** : https://github.com/aydinnyunus/WhatsappBOT
+
+•**MACHINE LEARNING** : https://github.com/aydinnyunus/Machine-Learning
+
+•**FACE RECOGNITION SECURITY** : https://github.com/aydinnyunus/FaceRecognitionSecurity
 
